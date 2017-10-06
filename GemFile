@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'http'
+gem 'json'
+gem 'slack-ruby-bot'
+gem 'mysql2'
+gem 'celluloid-io', require: ['celluloid/current', 'celluloid/io']
+gem 'picky'
